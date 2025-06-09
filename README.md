@@ -117,7 +117,3 @@ pip install mysqlclient
 ```python
 python manage.py migrate
 ```
-```
-
-
-
